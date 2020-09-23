@@ -1,5 +1,6 @@
-# HousePricePrediction
-House price prediction using machine learning
+# Team Details
+Team name - Raptors <br>
+Team members - Dhivya C, Roshini , Shashwanth
 # Overview:
 The objective of this project is to predict the house prices by training the model with datasets containing relevant features.
 
